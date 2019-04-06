@@ -1,0 +1,13 @@
+{
+  "id": "aws",
+  "name": "Aws",
+  "version": "1.0.1",
+  "description": "Amazon Web Services",
+  "main": "index.js",
+  "author": "Bart Anthonissen <bart.anthonissen@scantrust.com>",
+  "license": "MIT",
+  "repository": "https://github.com/bartanthonissen/franz-aws-recipe/",
+  "config": {
+    "serviceURL": "https://{teamID}.signin.aws.amazon.com/console"
+  }
+}
