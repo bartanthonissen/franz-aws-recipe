@@ -9,7 +9,7 @@
   "repository": "https://github.com/bartanthonissen/franz-aws-recipe/",
   "config": {
     "serviceURL": "https://{teamId}.signin.aws.amazon.com/console",
-    "hasTeamID": true,
-    "urlInputSuffix": ".signin.aws.amazon.com/console"
+    "hasTeamId": true,
+    "urlInputSuffix": ".signin.aws.amazon.com"
   }
 }
