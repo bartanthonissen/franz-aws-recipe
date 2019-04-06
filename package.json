@@ -8,6 +8,7 @@
   "license": "MIT",
   "repository": "https://github.com/bartanthonissen/franz-aws-recipe/",
   "config": {
-    "serviceURL": "https://us-east-1.signin.aws.amazon.com/console"
+    "hasTeamID": true,
+    "serviceURL": "https://{teamId}.signin.aws.amazon.com/console"
   }
 }
